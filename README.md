@@ -143,11 +143,9 @@ Performed SQL-based EDA to answer key business questions.
 ---
 
 ## 👨‍💻 Author
-**Sunny Reddy**  
-📧 your_email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/)  
-💻 [GitHub Profile](https://github.com/)
-
+**Sai Teja Kamidi**  
+📧 (saitejreddy1919@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/saiteja1919)  
 ---
 
 ⭐ *If you found this project helpful, please consider giving it a star on GitHub!*
